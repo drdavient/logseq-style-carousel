@@ -133,7 +133,7 @@ The following settings are an example of how to define buttons:
 
 Unless there are at least 2 styles per button there is no toggle/cycle effect.  It would not be situationally unreasonable to have 3 or more styles.  Change the default style for any button by reordering the `styles` array.
 
-Use Character Map (a tool on Windows) to look up the codes associated with the [tabler-icons font](https://tablericons.com) ([download here](https://github.com/tabler/tabler-icons/tree/master/iconfont/fonts)) in order to select icons for your custom buttons.
+Use Character Map (a tool on Windows) to look up the codes associated with the [tabler-icons font](https://tablericons.com) ([download here](https://github.com/tabler/tabler-icons/blob/master/packages/icons-webfont/fonts/tabler-icons.ttf)) in order to select icons for your custom buttons.
 
 The `futures` button relies on classes made possible by [Classy](https://github.com/mlanza/logseq-classy).
 
